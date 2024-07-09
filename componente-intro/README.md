@@ -1,4 +1,4 @@
-# curso-vue
+# componente-intro
 
 ## Project setup
 ```
